@@ -14,7 +14,9 @@ Horse is a playful browser extension that overlays a full-screen horse image on 
    - **Chrome**: Go to `chrome://extensions/`
    - **Firefox**: Go to `about:addons`
 3. Enable "Developer mode" (Chrome) or "Debug Add-ons" (Firefox).
-4. Click "Load unpacked" (Chrome) or "Load Temporary Add-on" (Firefox) and select the project folder.
+4. Installation method:
+   - **Chrome**: Click "Load unpacked" and select the project folder.
+   - **Firefox**: Click "Load Temporary Add-on" and select the ZIP file you downloaded (do not extract it; use the ZIP file directly).
 
 ## Usage
 Once installed, the extension will automatically activate on every page you visit. The horse overlay will appear and gradually become fully opaque over two minutes.
