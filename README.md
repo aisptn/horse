@@ -9,7 +9,7 @@ Horse is a playful browser extension that overlays a full-screen horse image on 
 - Works on all URLs
 
 ## Installation
-1. Clone or download this repository.
+1. Clone or download [this repository](https://github.com/aisptn/horse).
 2. Open your browser's extensions page:
    - **Chrome**: Go to `chrome://extensions/`
    - **Firefox**: Go to `about:addons`
